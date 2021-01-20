@@ -11,5 +11,5 @@ commands:
 		description: tests the plugin is working
 	 	usage: /<command>
 	 giveguillotine:
-	 	description: gives the player a guillotine
+	 	description: gives the player a guillotine 
 	 	usage: /<command>
