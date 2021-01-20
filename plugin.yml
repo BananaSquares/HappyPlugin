@@ -1,0 +1,15 @@
+name: HappyPlugin
+author: BananaSquares
+version: 1.0
+main: happyplugin.main.Main
+api-version: 1.16
+description: Happy Community plugin
+
+
+commands:
+	happytest:
+		description: tests the plugin is working
+	 	usage: /<command>
+	 giveguillotine:
+	 	description: gives the player a guillotine
+	 	usage: /<command>
