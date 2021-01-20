@@ -1,7 +1,7 @@
 name: HappyPlugin
 author: BananaSquares
 version: 1.0
-main: happyplugin.main.Main
+main: happyplugin.main.Main 
 api-version: 1.16
 description: Happy Community plugin
 
