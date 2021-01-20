@@ -8,7 +8,7 @@ description: Happy Community plugin
 
 commands:
 	happytest:
-		description: tests the plugin is working
+		description: tests the plugin is working or not
 	 	usage: /<command>
 	 giveguillotine:
 	 	description: gives the player a guillotine 
